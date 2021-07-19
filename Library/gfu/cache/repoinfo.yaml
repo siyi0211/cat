@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-07-19T09:35:30.835+08:00
+  lastUpdatedAtString: 2021-07-19T10:05:54.558+08:00
   initializedAtString: 2021-07-19T09:29:38.092+08:00
   currentGitRemote:
     name: origin
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: origin/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/siyi0211/cat.git
+    trackingBranch: master
   currentConfigRemote:
     name: origin
     url: https://github.com/siyi0211/cat.git
